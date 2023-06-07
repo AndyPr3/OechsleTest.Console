@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "OechsleTest.Console": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "environmentVariables": {
+        "StartYear": "2020",
+        "EndYear": "2022"
+      }
+    }
+  }
+}
